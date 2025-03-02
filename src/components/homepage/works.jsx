@@ -58,40 +58,63 @@ const Works = () => {
 	return (
 		<div className="works">
 			<Card
-				icon={faBriefcase}
-				title="Work"
-				body={
-					<div className="works-body">
-						<div className="work">
-							<img
-								src=".\Clglogo.png"
-								alt="college"
-								className="work-image"
-							/>
-							<div className="work-title">Babu Banarasi Das University, Lucknow</div>
-							<div className="work-subtitle">
-							I completed my Bachelor of Technology in Computer Sceince <br></br>From Babu Banarasi Das University, Lucknow.
-							<br></br> 2019 - 2023
-							{/* <div className="work-duration">2019 - 2023</div> */}
-							</div>
-							
-						</div>
-					</div>
-				}
-			/>
+  icon={faBriefcase}
+  title="Work"
+  body={
+    <div className="works-body">
+      <div className="work">
+        <img
+          src=".\download (12).jpg"
+          alt="Xcrino Business Solutions"
+          className="work-image"
+        />
+        <div className="work-title">Xcrino Business Solutions Pvt Ltd, New Delhi</div>
+        <div className="work-subtitle">
+          PHP Laravel Developer
+          <br /> October - Present
+        </div>
+      </div>
+
+      <br />
+
+      <div className="work">
+        <img
+          src=".\Clglogo.png"
+          alt="college"
+          className="work-image"
+        />
+        <div className="work-title">Babu Banarasi Das University, Lucknow</div>
+        <div className="work-subtitle">
+          I completed my Bachelor of Technology in Computer Science <br />
+          From Babu Banarasi Das University, Lucknow.
+          <br /> 2019 - 2023
+        </div>
+      </div>
+    </div>
+  }
+/>
+
 			<Card
 				icon={faBriefcase}
 				title="Key-skills"
 				body={
 					<div className="family">
 						<div className="work">
+					PHP |
+					LARAVEL |
+					TAILWIND |
+					GIT |
+					GITHUB |
+					MYSQL |
 					JAVA |
 					HTML |
 					CSS |
 					Javascript |
 					ReactJS |
 					Bootstrap |
-					NodeJS.
+					NodeJS |
+					MongoDB |
+					ExpresJS.
 							
 						</div>
 					</div>

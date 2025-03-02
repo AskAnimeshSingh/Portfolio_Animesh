@@ -142,8 +142,7 @@ const Contact = () => {
 							Thank you for your interest in getting in touch with
 							me. I welcome your feedback, questions, and
 							suggestions. If you have a specific question or
-							comment, please feel free to email me directly at
-							&nbsp;{" "}
+							comment, please feel free to email me directly at&nbsp;{""}
 							<a href={`mailto:${INFO.main.email}`}>
 								{INFO.main.email}
 							</a>
@@ -154,7 +153,7 @@ const Contact = () => {
 							required fields and I'll get back to you as soon as
 							possible. Finally, if you prefer to connect on
 							social media, you can find me on
-							&nbsp;{" "}
+							&nbsp;{""}
 							<a
 								href="https://www.instagram.com/its_animesh_singh?igsh=dXU1dWwycTNqbmVm"
 								target="_blank"

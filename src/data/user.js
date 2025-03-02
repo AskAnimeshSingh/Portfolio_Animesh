@@ -20,15 +20,15 @@ main1:{
 	},
 
 	homepage: {
-		title: "Innovative Web Applications Crafted with Modern Front-End Technologies.",
+		title: "Innovative Web Applications Crafted with Modern Technologies.",
 		description:
-			"In today's digital era, web applications are the cornerstone of business operations and user engagement. Utilizing cutting-edge front-end technologies, developers can create highly interactive, user-friendly, and efficient web applications. Modern front-end frameworks and libraries like React, Angular, and Vue.js, combined with robust state management tools and sophisticated design systems, enable the creation of applications that are not only visually appealing but also highly functional and responsive",
+			"In today's digital era, web applications are the cornerstone of business operations and user engagement. With expertise in Laravel, PHP, ReactJS, Tailwind CSS, Bootstrap, Node.js, Express, and MySQL, I have developed highly interactive, user-friendly, and efficient web applications. Leveraging modern front-end frameworks, backends, robust back-end technologies, and responsive design systems, I create applications that are not only visually appealing but also scalable, functional, and performance-driven.",
 	},
 
 	about: {
 		title: "I’m Animesh Singh. I live in Uttar Pradesh, India, where I design the future.",
 		description:
-			"I have successfully solved over 1000 problems on multiple coding platforms, showcasing my proficiency in various programming languages and algorithms. This extensive practice has honed my problem-solving skills, enabling me to tackle complex challenges efficiently. My experience spans diverse areas, including data structures, dynamic programming, and system design, which I apply to real-world projects. By engaging with different communities and participating in coding competitions, I continually enhance my knowledge and stay updated with the latest industry trends. This dedication to continuous learning and improvement reflects my passion for technology." ,},
+			"I have successfully solved over 300 problems on multiple coding platforms, showcasing my proficiency in various programming languages and algorithms. This extensive practice has honed my problem-solving skills, enabling me to tackle complex challenges efficiently. My experience spans diverse areas, including data structures, dynamic programming, and system design, which I apply to real-world projects. By engaging with different communities and participating in coding competitions, I continually enhance my knowledge and stay updated with the latest industry trends. This dedication to continuous learning and improvement reflects my passion for technology." ,},
 
 	articles: {
 		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
@@ -38,48 +38,48 @@ main1:{
 
 	projects: [
 		{
-			title: "Project 1",
-			description:"Developed a fully responsive personal portfolio website to reflect myself in the field of corporate world Created using Javascript animations and effects, and Contains an integrated Sign Up page for contacts with the viewers.",
+			title: "School Management System",
+			description:"The School Management System is a comprehensive platform designed to streamline and manage the core activities of a school. This system efficiently handles the administration of schools, teachers, parents, and students. The platform is built using the Laravel framework and incorporates essential features like CRUD operations, authentication, and validation.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://github.com/AskAnimeshSingh",
 			},
 
 		{
-			title: "Project 2",
+			title: "Andhra- Perfect Dining",
 			description:
-				"Created a responsive website which functions as visualizing the Dance website, which can be used to showcase the working of a dance tution website. It is also responsible for taking the query from the user in the forms, So they can be contacted and the query will be resolved",
+				"Andhra is a dynamic restaurant management website designed to handle all core functionalities of a restaurant. It provides an interactive platform to display menus, take customer orders, and track table availability in real-time. The system also supports managing discount offers, processing secure payments, and enhancing customer experience. With an intuitive interface, it streamlines daily operations and improves efficiency. ",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/AskAnimeshSingh",
 		},
 
 		 {
-		 	title: "Project 3",
+		 	title: "QuirkyQ - Appointment Booking Platform",
 			description:
-		 		"Developed the frontend of a website named Vhicle investigation System, In this the user can register their stolen vehicle by feeding the details like Vehicle registration number,Brand , Color, Special Marks etc",
+		 		"QuirkyQ is an advanced appointment booking platform offering user, vendor, and admin logins. Users can book salon and doctor appointments based on services provided by vendors and make secure online payments. Vendors can list their services, while admins manage vendor onboarding by accepting or rejecting applications. The system features robust authentication, input validation, API integration, and a secure payment gateway. QuirkyQ delivers a smooth and efficient booking experience for both customers and service providers. ",
 		 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 		linkText: "View Project",
-		 	link: "https://github.com/AskAnimeshSingh",
+		 	link: "https://quirky--q.vercel.app/quirkyQ",
 		 },
 
 		 {
-		 	title: "Project 4",
+		 	title: "Vehicle Management System",
 		 	description:
-				"A timepass game which can be played without internet connection in free time to enhance the mind.",
+				"The Vehicle Management System is a comprehensive platform designed to manage vehicle-related operations with role-based access. It includes two primary roles: Admin and Superadmin. Superadmins control admin logins, manage permissions, assign packages, and oversee all vehicle-related issues. Admins handle vehicle records and operational tasks. The system utilizes Laravel Breeze for multi-authentication from the same login page and MailHog for sending email notifications.",
 		 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 		 	link: "https://github.com/AskAnimeshSingh",
 		 },
 
-		// {
-		// 	title: "Project 5",
-		// 	description:
-		// 		"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-		// 	linkText: "View Project",
-		// 	link: "https://github.com",
-		// },
+		{
+			title: "GT Group",
+			description:
+				"GT Group is a comprehensive employee management system designed to handle various aspects of workforce administration. It facilitates adding and deleting users, managing employee records, tracking working hours, handling payroll, week-offs, and leave management. The system generates detailed salary slips in PDF format for employees. With a focus on automation and accuracy, GT Group ensures seamless management of employee operations and payroll processing while enhancing administrative efficiency.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com",
+		},
 	],
 };
 
